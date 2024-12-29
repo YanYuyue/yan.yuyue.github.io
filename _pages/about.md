@@ -1,15 +1,6 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 About me 
 =====
-Hi😊~ My name is Hongbo. I am a Phd Candidate in the College of Computer Science at Zhejiang University. I’m majoring in Design Science and working with Prof. Lingyun Sun. I focus on Human-Computer Interaction (HCI). My main research area includes intelligent and generative system, XR + AI, and human-AI collaboration. My work has been published at some top-tire HCI venues, such as TOCHI, IJHCS, UIST, CSCW, and IJHCI
+Hi😊~ My name is Hongbo. I received the M.E. degree and the Ph.D. degree in Systems and Control Engineering from Tokyo Institute of Technology, Tokyo, Japan, in 2019 and 2022, respectively. I was a Research Fellow with the Department of Systems and Control Engineering, Tokyo Institute of Technology, in 2023, and then joined the Graduate School of Engineering, Osaka University, Osaka, Japan, in 2024, where I am currently a Specially Appointed Research Fellow. My research interests include game theory, stability of nonlinear dynamical systems, hybrid systems, and noncooperative systems; and applications to multiagent systems, transportation systems, financial dynamics, and economic/social systems.
 
 A data-driven personal website
 ======
